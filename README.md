@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suyashchouksey1
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
@@ -14,7 +14,7 @@ Hello! I'm Suyash Chouksey, currently pursuing a Master of Computer Applications
 
 - 🎓 MCA Student
 - 💻 Proactive learner with a focus on full-stack web development
-- 📍 Based in Sainkheda, India
+- 📍 Based in Indore, India
 
 ## Technologies & Skills
 
