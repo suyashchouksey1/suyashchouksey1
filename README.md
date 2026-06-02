@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suyash Chouksey
 - 💻 MERN Stack Developer | Full Stack Web Developer
-- 👀 I’m interested in building real-world projects
+- 👀 I’m interested in building Real-world projects
 - 🌱 I’m currently learning MERN Stack & AI Tools
 - 💞️ I’m looking to collaborate on Full Stack Project
 - 📫 How to reach me >> suyash181818@gmail.com , 8717817405
