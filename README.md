@@ -1,33 +1,41 @@
-- 👋 Hi, I’m @suyashchouksey1
-- 👀 I’m interested in MERN Stack
-- 🌱 I’m currently learning ...Ai Tools
+- 👋 Hi, I’m Suyash Chouksey
+- 💻 MERN Stack Developer | Full Stack Web Developer
+- 👀 I’m interested in building real-world projects
+- 🌱 I’m currently learning MERN Stack & AI Tools
 - 💞️ I’m looking to collaborate on Full Stack Project
-- 📫 How to reach me >> suyash181818@gmail.com
+- 📫 How to reach me >> suyash181818@gmail.com , 8717817405
 
-# Suyash Chouksey
-
-Hello! I'm Suyash Chouksey, currently pursuing a Master of Computer Applications (MCA). I have a strong interest in web development and am passionate about expanding my coding skills. Below, you'll find a bit more about my background and the technologies I've learned.
-
-## About Me
-
+- ## About Me
 - 🎓 MCA Student
+- 💻 Intern As a MERN Stack Developer at Indvibe Infotech Pvt. Ltd.
 - 💻 Proactive learner with a focus on full-stack web development
 - 📍 Based in Indore, India
 
+Professional Summary :- MERN Stack Developer with hands-on experience in building
+scalable full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
+Strong in REST API development, responsive UI design, database schema planning, and
+JWT-based authentication. Seeking an entry-level or junior MERN Stack Developer role.
+Below, you'll find a bit more about my background and the technologies I've learned.
+
 ## Technologies & Skills
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js
-- **Database**: MongoDB
+Languages: JavaScript (ES6+)
+Frontend: HTML5, CSS3, React.js, Redux, Bootstrap
+Backend: Node.js, Express.js
+Databases: MongoDB, MySQL
+Tools & Concepts: GitHub, Postman, VS Code, RESTful APIs, CRUD
+
 
 ## Projects
 
-I'm actively working on projects to sharpen my skills. Keep an eye out for future updates!
+Food Bank | { MERN }
+• Established a full-stack food donation platform using MongoDB, Express.js, React.js and Node.js.
+• Executed user registration, login, and role-based access control.
+• Planned MongoDB schemas and RESTful APIs for donors and volunteers.
+• Focused on reducing food wastage by enabling efficient food redistribution.
 
-Looking forward to collaborating and learning more in this exciting field!
-
-
-<!--
-suyashchouksey1/suyashchouksey1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Dream Traveler | { MERN }
+• Built a full-stack travel booking application with secure authentication using JWT.
+• Structured MongoDB schemas for users, travel packages, and booking records.
+• Implemented backend routes for travel package management and booking processing.
+• Created reusable React components with dynamic API integration and responsive UI design
